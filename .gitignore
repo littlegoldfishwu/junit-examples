@@ -1,0 +1,7 @@
+# Compiled source #
+*.class
+
+# Package files #
+*.jar
+*.war
+
